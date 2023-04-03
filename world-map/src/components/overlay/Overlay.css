@@ -1,0 +1,13 @@
+.overlay{
+    width: 100%;
+    position: relative;
+
+
+}
+
+.overlay-mid{
+    position: absolute;
+    top:90px;
+    left: 40%;
+
+}
